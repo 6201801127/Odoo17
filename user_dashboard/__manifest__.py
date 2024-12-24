@@ -7,7 +7,7 @@
     'author': "Ajay",
     'company': 'Sakshath Tech',
     'maintainer': 'Sakshath Tech',
-    'website': "https://www.sakshath-technologies.com/",
+    'website': "https://www.ask-tech.com/",
     'depends': ['hr', 'hr_holidays', 'hr_timesheet',
                 'hr_attendance', 'hr_timesheet_attendance',
                 'hr_recruitment', 'event',
