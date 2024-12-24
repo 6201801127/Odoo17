@@ -2,15 +2,15 @@
     'name': "User Dashboard",
     'version': '17.0.0.0.0',
     'category': 'Dashboard',
-    'summary': """Responsive HR Dashboard""",
+    'summary': """Responsive User Dashboard""",
     'description': """
         My Odoo Module
         This module provides a powerful solution for reviewing your user data
         With this module, you can easily reviews User data
     """,
     'author': "Ajay",
-    'company': 'Sakshath Tech',
-    'maintainer': 'Sakshath Tech',
+    'company': 'ASK Tech',
+    'maintainer': 'ASK Tech',
     'website': "https://www.ask-tech.com/",
     'depends': ['hr', 'hr_holidays', 'hr_timesheet',
                 'hr_attendance', 'hr_timesheet_attendance',
