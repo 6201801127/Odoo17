@@ -36,6 +36,5 @@
     'application': True,
     'license': 'AGPL-3', 
     'images': [
-        # 'user_dashboard/static/description/icon.jpg',
-        'user_dashboard/static/description/banner.jpg',],
+        'static/description/banner.jpg',],
 }
