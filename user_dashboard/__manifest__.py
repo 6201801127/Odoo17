@@ -35,5 +35,9 @@
     'auto_install': False,
     'application': True,
     'license': 'AGPL-3', 
-    'image': ['user_dashboard/static/description/icon.png'],
+    'image': [
+        'user_dashboard/static/description/icon.png',
+        'user_dashboard/static/images/module.png',
+        'user_dashboard/static/images/menu.png',
+              ],
 }
