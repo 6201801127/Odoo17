@@ -30,4 +30,5 @@
     'installable': True,
     'auto_install': False,
     'application': True,
+    'image': ['user_dashboard/static/description/icon.png'],
 }
