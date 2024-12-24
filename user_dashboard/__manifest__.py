@@ -4,9 +4,9 @@
     'category': 'Dashboard',
     'summary': """Responsive HR Dashboard""",
     'description': """
-        <h2>My Odoo Module</h2>
-        <p>This module provides a <strong>powerful</strong> solution for reviewing <a href="https://www.example.com">your user data</a>.</p>
-        <p>With this module, you can easily reviews <em>User data</em></p>
+        My Odoo Module
+        This module provides a powerful solution for reviewing your user data
+        With this module, you can easily reviews User data
     """,
     'author': "Ajay",
     'company': 'Sakshath Tech',
@@ -37,9 +37,8 @@
     'license': 'AGPL-3', 
     'image': [
         'user_dashboard/static/description/icon.png',
+        'user_dashboard/static/description/dashboard.jpg',
         'user_dashboard/static/images/module.jpg',
         'user_dashboard/static/images/menu.jpg',
-        'user_dashboard/static/images/dashboard.jpg',
-
-              ],
+],
 }
