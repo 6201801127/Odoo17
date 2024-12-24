@@ -3,7 +3,11 @@
     'version': '17.0.0.0.0',
     'category': 'Dashboard',
     'summary': """Responsive HR Dashboard""",
-    'description': """Overview employee data from hr Dashboard""",
+    'description': """
+        <h2>My Odoo Module</h2>
+        <p>This module provides a <strong>powerful</strong> solution for reviewing <a href="https://www.example.com">your user data</a>.</p>
+        <p>With this module, you can easily reviews <em>User data</em></p>
+    """,
     'author': "Ajay",
     'company': 'Sakshath Tech',
     'maintainer': 'Sakshath Tech',
@@ -30,5 +34,6 @@
     'installable': True,
     'auto_install': False,
     'application': True,
+    'license': 'AGPL-3', 
     'image': ['user_dashboard/static/description/icon.png'],
 }
