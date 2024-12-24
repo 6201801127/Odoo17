@@ -37,7 +37,7 @@
     'license': 'AGPL-3', 
     'image': [
         'user_dashboard/static/description/icon.png',
-        'user_dashboard/static/description/dashboard.jpg',
+        'user_dashboard/static/description/dash.jpg',
         'user_dashboard/static/images/module.jpg',
         'user_dashboard/static/images/menu.jpg',
 ],
