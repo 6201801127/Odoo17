@@ -8,7 +8,7 @@
         This module provides a powerful solution for reviewing your user data
         With this module, you can easily reviews User data
     """,
-    'author': "Ajay",
+    'author': "Ajay Kumar Ravidas",
     'company': 'ASK Tech',
     'maintainer': 'ASK Tech',
     'website': "https://www.ask-tech.com/",
